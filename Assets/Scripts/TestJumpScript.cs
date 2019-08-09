@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class TestJumpScript : MonoBehaviour
 {
-
-    SpriteRenderer renderer; 
+    new SpriteRenderer renderer; 
 
     // Start is called before the first frame update
     void Start()
